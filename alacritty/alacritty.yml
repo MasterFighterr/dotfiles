@@ -67,7 +67,7 @@ window:
   #
   # Window opacity as a floating point number from `0.0` to `1.0`.
   # The value `0.0` is completely transparent and `1.0` is opaque.
-  opacity: 0.82
+  opacity: 0.45
 
   # Startup Mode (changes require restart)
   #
@@ -991,41 +991,67 @@ cursor:
     #green:   '#27a343'
     #yellow:  '#d5a30e'
 
+#colors: Muse-Blame!
+  # Default colors
+  #primary:
+    #background: '#000000'
+    #foreground: '#00ff00'
+  
+  #cursor:
+    #text: '#00ff00'
+    #cursor: '#00ff00'
+
+  # Normal colors
+  #normal:
+    #black:   '#2e3436'
+    #red:     '#a31604'
+    #green:   '#447241'
+    #yellow:  '#c1951a'
+    #blue:    '#425387'
+    #magenta: '#965d98'
+    #cyan:    '#06989a'
+    #white:   '#d3d7cf'
+
+  # Bright colors
+  #bright:
+    #black:   '#555753'
+    #red:     '#c60001'
+    #green:   '#27a343'
+    #yellow:  '#d5a30e'
+    #blue:    '#4a5a8d'
+    #magenta: '#893c8c'
+    #cyan:    '#12bccb'
+    #white:   '#eeeeec'
+
 colors:
   # Default colors
   primary:
     background: '#000000'
-    foreground: '#ececec'
-  
-  cursor:
-    text: '#00ff00'
-    cursor: '#00ff00'
+    foreground: '#00ff00'
 
   # Normal colors
   normal:
-    black:   '#2e3436'
-    red:     '#a31604'
-    green:   '#447241'
-    yellow:  '#c1951a'
-    blue:    '#425387'
-    magenta: '#965d98'
-    cyan:    '#06989a'
-    white:   '#d3d7cf'
+    black:   '#000000'
+    red:     '#55ff55'
+    green:   '#00ff00'
+    yellow:  '#00ff00'
+    blue:    '#005500'
+    magenta: '#55ff55'
+    cyan:    '#00ff00'
+    white:   '#00ff00'
 
   # Bright colors
   bright:
-    black:   '#555753'
-    red:     '#c60001'
-    green:   '#27a343'
-    yellow:  '#d5a30e'
-    blue:    '#4a5a8d'
-    magenta: '#893c8c'
-    cyan:    '#12bccb'
-    white:   '#eeeeec'
-    blue:    '#4a5a8d'
-    magenta: '#893c8c'
-    cyan:    '#12bccb'
-    white:   '#eeeeec'
+    black:   '#000000'
+    red:     '#55ff55'
+    green:   '#55ff55'
+    yellow:  '#55ff55'
+    blue:    '#005500'
+    magenta: '#55ff55'
+    cyan:    '#55ff55'
+    white:   '#00ff00'
+
+
   # Cursor Colors
    #cursor:
      #text: '#00ff00'
