@@ -1,0 +1,70 @@
+{
+  "brightness": "Off",
+  "current_mode": "Static",
+  "builtins": {
+    "Static": {
+      "mode": "Static",
+      "zone": "None",
+      "colour1": [
+        166,
+        0,
+        0
+      ],
+      "colour2": [
+        0,
+        0,
+        0
+      ],
+      "speed": "Med",
+      "direction": "Right"
+    },
+    "Breathe": {
+      "mode": "Breathe",
+      "zone": "None",
+      "colour1": [
+        166,
+        0,
+        0
+      ],
+      "colour2": [
+        0,
+        0,
+        0
+      ],
+      "speed": "Med",
+      "direction": "Right"
+    },
+    "Pulse": {
+      "mode": "Pulse",
+      "zone": "None",
+      "colour1": [
+        166,
+        0,
+        0
+      ],
+      "colour2": [
+        0,
+        0,
+        0
+      ],
+      "speed": "Med",
+      "direction": "Right"
+    }
+  },
+  "multizone": null,
+  "multizone_on": false,
+  "enabled": [
+    "BootBar",
+    "AwakeBar",
+    "ShutdownLogo",
+    "SleepKeyb",
+    "AwakeLogo",
+    "BootKeyb",
+    "SleepLogo",
+    "AwakeKeyb",
+    "BootLogo",
+    "SleepBar",
+    "ShutdownBar",
+    "ShutdownKeyb"
+  ]
+}{"brightness":"Med","current_mode":"Static","builtins":{"Static":{"mode":"Static","zone":"None","colour1":[166,0,0],"colour2":[0,0,0],"speed":"Med","direction":"Right"},"Breathe":{"mode":"Breathe","zone":"None","colour1":[166,0,0],"colour2":[0,0,0],"speed":"Med","direction":"Right"},"Pulse":{"mode":"Pulse","zone":"None","colour1":[166,0,0],"colour2":[0,0,0],"speed":"Med","direction":"Right"}},"multizone":null,"multizone_on":false,"enabled":{"AuraDev19b6":["AwakeBar","BootBar","AwakeKeyb","ShutdownBar","SleepBar","SleepKeyb","BootLogo","ShutdownKeyb","BootKeyb","SleepLogo","ShutdownLogo","AwakeLogo"]}}
