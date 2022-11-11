@@ -289,6 +289,9 @@
     # * close_all: Close all notifications.
     # * context: Open context menu for the notification.
     # * context_all: Open context menu for all notifications.
+C. B. A. D.
+C. B. A. D.
+
     # These values can be strung together for each mouse event, and
     # will be executed in sequence.
     mouse_left_click = close_current
@@ -322,10 +325,15 @@
     #frame_color = "#464646"
     #highlight = "#c4c4c4"
 
-    background = "#7c98a6"
-    foreground = "#9fbac5"
-    frame_color = "#9fbac5"
-    highlight = "#9fbac5"
+    #background = "#7c98a6"
+    #foreground = "#9fbac5"
+    #frame_color = "#9fbac5"
+    #highlight = "#9fbac5"
+
+    background = "#182051"
+    foreground = "#faf881"
+    frame_color = "#43455a"
+    highlight = "#43455a"
 
     timeout = 5
     # Icon for notifications with low urgency, uncomment to enable
@@ -346,10 +354,15 @@
     #frame_color = "#464646"
     #highlight = "#c4c4c4"
 
-    background = "#7c98a6"
-    foreground = "#000d20"
-    frame_color = "#000d20"
-    highlight = "#000d20"
+    #background = "#7c98a6"
+    #foreground = "#000d20"
+    #frame_color = "#000d20"
+    #highlight = "#000d20"
+
+    background = "#182051"
+    foreground = "#faf881"
+    frame_color = "#faf881"
+    highlight = "#faf881"
 
     timeout = 5
     # Icon for notifications with normal urgency, uncomment to enable
@@ -370,10 +383,15 @@
     #frame_color = "#464646"
     #highlight = "#202020"
 
-    background = "#9fbac5"
-    foreground = "#000d20"
-    frame_color = "#7c98a6"
-    highlight = "#000d20"
+    #background = "#9fbac5"
+    #foreground = "#000d20"
+    #frame_color = "#7c98a6"
+    #highlight = "#000d20"
+
+    background = "#faf881"
+    foreground = "#182051"
+    frame_color = "#182051"
+    highlight = "#182051"
 
     timeout = 0
     # Icon for notifications with critical urgency, uncomment to enable
