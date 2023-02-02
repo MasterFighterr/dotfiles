@@ -338,10 +338,16 @@ C. B. A. D.
     #highlight = "#43455a"
 
     #Black Templar
-    background = "#26232a"
-    foreground = "#5b4b8c"
-    frame_color = "#26232a"
-    highlight = "#5b4b8c"
+    #background = "#26232a"
+    #foreground = "#5b4b8c"
+    #frame_color = "#26232a"
+    #highlight = "#5b4b8c"
+
+	#Emperors Champion
+    background = "#000000"
+    foreground = "#ffffff"
+    frame_color = "#bb0000"
+    highlight = "#ffffff"
 
     timeout = 5
     # Icon for notifications with low urgency, uncomment to enable
@@ -372,10 +378,15 @@ C. B. A. D.
     #frame_color = "#faf881"
     #highlight = "#faf881"
 
-    background = "#26232a"
-    foreground = "#5b4b8c"
-    frame_color = "#5b4b8c"
-    highlight = "#5b4b8c"
+    #background = "#26232a"
+    #foreground = "#5b4b8c"
+    #frame_color = "#26232a"
+    #highlight = "#5b4b8c"
+
+    background = "#000000"
+    foreground = "#bb0000"
+    frame_color = "#bb0000"
+    highlight = "#bb0000"
 
     timeout = 5
     # Icon for notifications with normal urgency, uncomment to enable
@@ -406,10 +417,15 @@ C. B. A. D.
     #frame_color = "#182051"
     #highlight = "#182051"
 
-    background = "#5b4b8c"
-    foreground = "#26232a"
-    frame_color = "#26232a"
-    highlight = "#26232a"
+    #background = "#26232a"
+    #foreground = "#5b4b8c"
+    #frame_color = "#26232a"
+    #highlight = "#5b4b8c"
+
+    background = "#bb0000"
+    foreground = "#000000"
+    frame_color = "#bb0000"
+    highlight = "#000000"
 
     timeout = 0
     # Icon for notifications with critical urgency, uncomment to enable
