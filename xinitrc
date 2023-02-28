@@ -12,7 +12,8 @@
 # feh --bg-scale /home/sabien/Pictures/Lain/lainwallpaperbw.png &
 # feh --bg-scale /home/sabien/Pictures/Wallpapers/metal-gear/MGS-wallpaper.jpg &
 # feh --bg-scale /home/sabien/Pictures/Wallpapers/metal-gear/MGS1-color-wallpaper.jpg &
-feh --bg-scale /home/sabien/Pictures/Warhammer/black-templars-4k.png &
+/usr/lib/mate-polkit/polkit-mate-authentication-agent-1 &
+feh --bg-scale /home/sabien/Pictures/Warhammer/emperors-champion-4k.png &
 picom -b --config /home/sabien/.config/picom/picom.conf &
 slstatus &
 dunst &
@@ -22,4 +23,5 @@ blueman-applet &
 openrgb --startminimized -p "Black Templar" &
 corectrl --minimize-systray &
 steam -silent &
+nicotine -s &
 exec dwm
