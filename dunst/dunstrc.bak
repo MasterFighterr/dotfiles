@@ -289,6 +289,8 @@
     # * close_all: Close all notifications.
     # * context: Open context menu for the notification.
     # * context_all: Open context menu for all notifications.
+C. B. A. D.
+C. B. A. D.
 
     # These values can be strung together for each mouse event, and
     # will be executed in sequence.
@@ -342,16 +344,10 @@
     #highlight = "#5b4b8c"
 
 	#Emperors Champion
-    #background = "#000000"
-    #foreground = "#770000"
-    #frame_color = "#bb0000"
-    #highlight = "#770000"
-
-	#free
-	background = "#301686"
-    foreground = "#fd5cf6"
-    frame_color = "#fd5cf6"
-    highlight = "#fd5cf6"
+    background = "#000000"
+    foreground = "#770000"
+    frame_color = "#bb0000"
+    highlight = "#770000"
 
     timeout = 5
     # Icon for notifications with low urgency, uncomment to enable
@@ -387,16 +383,10 @@
     #frame_color = "#26232a"
     #highlight = "#5b4b8c"
 
-    #background = "#000000"
-    #foreground = "#bb0000"
-    #frame_color = "#bb0000"
-    #highlight = "#770000"
-
-    #free
-    background = "#301686"
-    foreground = "#5fbcf3"
-    frame_color = "#fd5cf6"
-    highlight = "#5fbcf3"
+    background = "#000000"
+    foreground = "#bb0000"
+    frame_color = "#bb0000"
+    highlight = "#770000"
 
     timeout = 5
     # Icon for notifications with normal urgency, uncomment to enable
@@ -432,16 +422,10 @@
     #frame_color = "#26232a"
     #highlight = "#5b4b8c"
 
-    #background = "#bb0000"
-    #foreground = "#000000"
-    #frame_color = "#bb0000"
-    #highlight = "#770000"
-
-    #free
-    background = "#301686"
-    foreground = "#5fbcf3"
-    frame_color = "#5fbcf3"
-    highlight = "#5fbcf3"
+    background = "#bb0000"
+    foreground = "#000000"
+    frame_color = "#bb0000"
+    highlight = "#770000"
 
     timeout = 0
     # Icon for notifications with critical urgency, uncomment to enable
